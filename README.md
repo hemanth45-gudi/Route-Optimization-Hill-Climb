@@ -29,12 +29,8 @@ Time-Limited Access – Datasets accessible only within defined validity period
 
 
 How to Run the Project :
-Install dependencies:
-pip install -r requirements.txt
+java -version   
+javac Main.java 
+java Main
 
 
-Run the Flask application:
-python app.py
-
-Open browser and go to:
-http://127.0.0.1:5000
