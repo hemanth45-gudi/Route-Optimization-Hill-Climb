@@ -18,12 +18,12 @@ Features :
 
 
 
-Authentication – Secure login with password + email OTP verification
-Role-Based Access Control – Admin, Researcher, Reviewer roles
-Hybrid Encryption – AES for data encryption + RSA for key security
-Password Security – SHA-256 hashing with salt
-Digital Signatures – Ensures dataset integrity and authenticity
-API Integration – Backend APIs connected to frontend for dataset upload and controlled sharing
+Authentication – Secure login with password + email OTP verification  ,
+Role-Based Access Control – Admin, Researcher, Reviewer roles   , 
+Hybrid Encryption – AES for data encryption + RSA for key security    ,
+Password Security – SHA-256 hashing with salt   ,
+Digital Signatures – Ensures dataset integrity and authenticity   ,
+API Integration – Backend APIs connected to frontend for dataset upload and controlled sharing    ,
 Time-Limited Access – Datasets accessible only within defined validity period
 
 
