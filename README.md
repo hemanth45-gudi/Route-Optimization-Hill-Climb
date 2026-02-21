@@ -92,7 +92,8 @@ Hill Climbing is a greedy local search algorithm that continuously improves a so
 
 ## 📸 Screenshot
 
-![Route Optimization](images/project-image.png)
+![Route Optimization](p1-project.png)
+![Route Optimization](p1-project.png)
 
 ---
 
